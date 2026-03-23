@@ -1,0 +1,2 @@
+# python-install
+windows下的python安装和在vscode中使用python
